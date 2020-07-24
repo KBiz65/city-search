@@ -97,7 +97,7 @@ video {
 main {
   margin: 1rem 0;
   text-align: center;
-  background-image: url(../../../../python/django/kevinbisner-com/static/images/blue-wallpaper-preview-24.jpg);
+  background-image: url(blue-wallpaper-preview-1.jpg);
   background-size: cover;
 }
 
@@ -141,6 +141,9 @@ footer {
   height: 50px;
 }
 
+main h3 {
+  color: white;
+}
 .weather h2 {
   position: relative;
   padding: 5px;
